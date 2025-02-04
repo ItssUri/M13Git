@@ -38,7 +38,7 @@ public class MainActivity extends AppCompatActivity {
     // HOTFIX!
     // HOTFIX 2
     // Development stuff
-    // Release stuff
+    // Release stuff times 2
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
