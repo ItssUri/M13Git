@@ -201,7 +201,7 @@ public class player extends AppCompatActivity {
 
     private class MediaObserver implements Runnable {
         private final AtomicBoolean stop = new AtomicBoolean(false);
-
+        // Project 2 Changes
         public void stop() {
             stop.set(true);
         }
